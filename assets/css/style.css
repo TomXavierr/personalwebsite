@@ -122,7 +122,9 @@ a:hover {
   height: 100%;
   display: table;
 }
-
+.error{
+color: #ed3c0d;
+}
 .table-cell {
   display: table-cell;
   vertical-align: middle;
